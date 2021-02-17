@@ -1,19 +1,19 @@
 
-# Back-end com NodeJS
+## Back-end com NodeJS
 
-## 📖 Sobre:
+### 📖 Sobre:
 O projeto trata-se de um back-end simples que recebe requisições HTTP através do http://localhost:3333/ e salva os dados em um array do próprio código.
 
 Nesse projeto também foi desenvolvido uma Middleware para validar o ID do projeto como UUID quando é feito alguma solicitação com parametro de ID.
 
-_
-## Para rodar esse projeto:
+
+### 🔧 Para rodar esse projeto:
 
 1- Instale as libs com o comando **yarn**.
 2- Rode o projeto com o comando **yarn dev***.
 
-_
-## As requisições aceitas são:
+
+### 📍 As requisições aceitas são:
 
 + **GET** (/projects) para **listar** todos os projetos salvos.
 
