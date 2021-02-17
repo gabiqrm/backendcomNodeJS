@@ -2,7 +2,7 @@
 # Back-end com NodeJS
 
 ## 📖 Sobre:
-O projeto trata-se de um back-end simples que recebe requisiçes HTTP através do http://localhost:3333/ e salva os dados em um array do próprio código.
+O projeto trata-se de um back-end simples que recebe requisições HTTP através do http://localhost:3333/ e salva os dados em um array do próprio código.
 
 Nesse projeto também foi desenvolvido uma Middleware para validar o ID do projeto como UUID quando é feito alguma solicitação com parametro de ID.
 
