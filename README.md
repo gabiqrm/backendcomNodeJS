@@ -9,9 +9,11 @@ Nesse projeto também foi desenvolvido uma Middleware para validar o ID do proje
 
 ### 🔧 Para rodar esse projeto:
 
-1- Instale as libs com o comando **yarn**.
-2- Rode o projeto com o comando **yarn dev***.
+```
+1- Instale as libs com o comando **yarn**. 
 
+2- Rode o projeto com o comando **yarn dev***.
+```
 
 ### 📍 As requisições aceitas são:
 
