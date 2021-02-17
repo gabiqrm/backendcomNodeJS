@@ -6,9 +6,14 @@ O projeto trata-se de um back-end simples que recebe requisições HTTP através
 
 Nesse projeto também foi desenvolvido uma Middleware para validar o ID do projeto como UUID quando é feito alguma solicitação com parametro de ID.
 
-*para rodar esse projeto, instale as libs com o comando **yarn** e rode o projeto com o comando **yarn dev***
+_
+## Para rodar esse projeto:
 
-As requisições aceitas são:
+1- Instale as libs com o comando **yarn**.
+2- Rode o projeto com o comando **yarn dev***.
+
+_
+## As requisições aceitas são:
 
 + **GET** (/projects) para **listar** todos os projetos salvos.
 
